@@ -1,0 +1,8 @@
+Hyena Habitat:
+Hy01; Kamari; birth date: 2018-03-21; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2024-11-20
+
+Tiger Habitat:
+Ti01; Raja; birth date: 2022-12-15; orange color; male; 220 pounds; from Sundarbans, India; arrived 2024-11-20
+
+Elephant Habitat:
+El01; Ella; birth date: 2021-06-17; gray color; female; 4000 pounds; from Kruger Park, South Africa; arrived 2024-11-20
